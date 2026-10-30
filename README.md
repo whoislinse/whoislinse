@@ -1,16 +1,23 @@
-## Hi there 👋
+# linse
 
-<!--
-**whoislinse/whoislinse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+16 y/o developer. Low-level & high-level programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+</p>
+
+<sub>Visitors</sub>
+
+<img src="https://count.getloli.com/@whoislinse?theme=moebooru" alt="Visitors" />
+
+<sub>Commits</sub>
+
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=whoislinse&theme=github-compact&hide_border=true&hide_title=true)
