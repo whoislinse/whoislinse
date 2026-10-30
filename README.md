@@ -4,17 +4,21 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=c,lua,js,java&theme=dark" alt="C, Lua, JavaScript and Java" height="42" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,lua,js,java&theme=dark" alt="C, Lua, JavaScript and Java" height="56" />
+</p>
 
-<br>
+---
 
-<sub>Visitors</sub><br>
-<img src="https://api.sefinek.net/api/v2/moecounter/@whoislinse?length=7&theme=booru-koe&pixelated=true" alt="Profile visitors" height="54" />
+<p align="center">
+  <img src="https://api.sefinek.net/api/v2/moecounter/@whoislinse?length=7&theme=default-big&pixelated=true" alt="Profile visitors" />
+</p>
 
-<br>
+---
 
-<sub>Commits</sub><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoislinse&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoislinse&theme=github" alt="GitHub contribution activity" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/whoislinse/svg?theme=green&amp;darkMode=true&amp;transparent=true&amp;cellSize=16&amp;cellGap=3&amp;fontSize=13" />
+    <img src="https://gh-heat.anishroy.com/api/whoislinse/svg?theme=green&amp;darkMode=false&amp;transparent=true&amp;cellSize=16&amp;cellGap=3&amp;fontSize=13" alt="Contribution activity" width="100%" />
+  </picture>
+</p>
