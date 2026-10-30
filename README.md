@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,lua,js,java&theme=dark" alt="C, Lua, JavaScript and Java" height="56" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,lua&theme=dark" alt="C, Java, JavaScript and Lua" height="56" />
 </p>
 
 ---
