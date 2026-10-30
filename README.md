@@ -4,20 +4,17 @@
 
 ---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,lua,js,java&theme=dark" alt="C, Lua, JavaScript and Java" height="42" />
 
-<sub>Visitors</sub>
+<br>
 
-<img src="https://count.getloli.com/@whoislinse?theme=moebooru" alt="Visitors" />
+<sub>Visitors</sub><br>
+<img src="https://api.sefinek.net/api/v2/moecounter/@whoislinse?length=7&theme=booru-koe&pixelated=true" alt="Profile visitors" height="54" />
 
-<sub>Commits</sub>
+<br>
 
-![Commits](https://github-readme-activity-graph.vercel.app/graph?username=whoislinse&theme=github-compact&hide_border=true&hide_title=true)
+<sub>Commits</sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoislinse&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoislinse&theme=github" alt="GitHub contribution activity" width="100%" />
+</picture>
